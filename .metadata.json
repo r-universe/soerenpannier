@@ -1,6 +1,5 @@
 [
   {
-    "package": "emdi",
-    "oncran": true
+    "package": "emdi"
   }
 ]
